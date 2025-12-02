@@ -5,3 +5,4 @@ var/
 bin/
 bin/
 ./bin
+.env
